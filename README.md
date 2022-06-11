@@ -53,7 +53,7 @@ What I am learning ?
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Cpp-ED8B00?style=for-the-badge&logo=cpp&logoColor=white">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
