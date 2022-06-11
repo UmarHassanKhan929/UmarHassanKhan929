@@ -2,9 +2,10 @@
 
   <h1 align="center">Hi Everyone !!! I am <a href="#">Umar Hassan Khan</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" alt="Waving"> </h1>
  </p>
+
 <p align="center">
 
-<img align="center" src="https://https://komarev.com/ghpvc/?username=UmarHassanKhan929&style=plastic&color=grey">
+<img align="center" src="https://komarev.com/ghpvc/?username=UmarHassanKhan929&style=plastic&color=blueviolet">
 
 </p>
 
@@ -18,10 +19,10 @@
 
 <h2 align="center">Contact Me</h2>
 
-<p align="center>
+<p align="center">
 </br>
-<a href="https://www.instagram.com/uhknaul/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>&nbsp;
- <a href="https://linkedin.com/in/umar-hassan-khan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/uhknaul/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>
+ <a href="https://linkedin.com/in/umar-hassan-khan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>
   
 </p>
 
@@ -114,5 +115,4 @@ Well thats a lot of technical stuff, what are my other activities ?
 </p>
 
 <h3 align="center">Looking forward to collaborate with ya'll</h3>
-
 
