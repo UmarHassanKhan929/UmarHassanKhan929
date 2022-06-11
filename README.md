@@ -4,7 +4,7 @@
  </p>
 <p align="center">
 
-<img align="center" src="https://https://komarev.com/ghpvc/?username=UmarHassanKhan929r&style=plastic&color=grey">
+<img align="center" src="https://https://komarev.com/ghpvc/?username=UmarHassanKhan929&style=plastic&color=grey">
 
 </p>
 
@@ -18,7 +18,7 @@
 
 <h2 align="center">Contact Me</h2>
 
-<p>
+<p align="center>
 </br>
 <a href="https://www.instagram.com/uhknaul/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>&nbsp;
  <a href="https://linkedin.com/in/umar-hassan-khan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>&nbsp;
