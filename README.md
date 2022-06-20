@@ -13,7 +13,7 @@
 
 <p align="left"> 
 
- I am a technicaly inclined and self motivated CS student, looking forward to learn and tinker with new technologies and framework for knowledge and fun.
+ I am a technicaly inclined and self motivated CS student passionate about building great products that make people’s lives easier. 
  
 </p>
 
