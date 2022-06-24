@@ -21,8 +21,8 @@
 </br>
 What I do ?
 
--   Full Stack Web Development (MERN Stack)
--   Data Scraping and Analysis
+-  💻 Full Stack Web Development (MERN Stack)
+-  📊 Data Scraping and Analysis
 
 </p>
 
@@ -30,10 +30,9 @@ What I do ?
 </br>
 What I am learning ?
 
--   Android Development (Flutter)
--   UX/UI Designing
--   Cloud Computing (AWS)
--   Serverless Development
+-  📱 Android Development (Flutter)
+-  🎨 UX/UI Designing
+-  ☁️ Cloud Computing (AWS)
   
 </p>
 <h2 align="center">GitHub Statistics</h2>
