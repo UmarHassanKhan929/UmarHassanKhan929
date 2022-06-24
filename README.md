@@ -96,10 +96,10 @@ What I am learning ?
 </br>
 Well thats a lot of technical stuff, what are my other activities ?
 
--   Playing Video Games
--   Photo Editing
--   Video Editing & Audio Visualizing
--   Hiking & Weight lifting
+-  🎮 Playing Video Games
+-  📸 Photo Editing
+-  🎬 Video Editing & Audio Visualizing
+-  ⛰️ Hiking & Weight lifting 🏋🏻
   
 </p>
 
