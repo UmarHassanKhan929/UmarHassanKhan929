@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">Hi Everyone !!! I am <a href="#">Umar Hassan Khan</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" alt="Waving"> </h1>
+  <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" alt="Waving"> !!! I am <a href="#">Umar Hassan Khan</a> </h1>
  </p>
 
 <p align="center">
