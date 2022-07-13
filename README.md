@@ -40,7 +40,7 @@ What I am learning ?
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&layout=compact?&theme=radical"> -->
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java"> 
 </p>
 
 <h2 align="center">Tools & Technologies</h2>
