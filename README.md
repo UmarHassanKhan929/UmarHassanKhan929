@@ -40,8 +40,10 @@ What I am learning ?
 
 <div >
   <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java"> 
+ 
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=UmarHassanKhan929&theme=dark">
+  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java"> 
 </div>
 
 <h2 align="center">Tools & Technologies</h2>
