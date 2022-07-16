@@ -38,7 +38,7 @@ What I am learning ?
 </p>
 <h2 align="center">GitHub Statistics</h2>
 
-<div >
+<div style="display:flex;flex-direction:column;align-items: center;">
   <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
  
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=UmarHassanKhan929&theme=dark">
