@@ -37,8 +37,7 @@ What I am learning ?
   
 </p>
 <h2 align="center">GitHub Statistics</h2>
-
-[!([http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000](https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22))]
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22)]
 
   <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
  
