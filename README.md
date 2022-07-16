@@ -38,10 +38,11 @@ What I am learning ?
 </p>
 <h2 align="center">GitHub Statistics</h2>
 
-<p align = "center">
+<div >
   <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java"> 
-</p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java"> 
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=UmarHassanKhan929&theme=dark">
+</div>
 
 <h2 align="center">Tools & Technologies</h2>
 
