@@ -19,7 +19,7 @@
 
 <p>
 </br>
-What I do ?
+What I do?
 
 -  💻 Full Stack Web Development (MERN Stack)
 -  📊 Data Scraping and Analysis
@@ -29,10 +29,9 @@ What I do ?
 
 <p>
 </br>
-What I am learning ?
+What I am learning?
 
 -  📱 Android Development (Flutter)
--  🎨 UX/UI Designing
 -  ☁️ Cloud Computing (AWS)
   
 </p>
@@ -96,7 +95,7 @@ What I am learning ?
 
 <p>
 </br>
-Well thats a lot of technical stuff, what are my other activities ?
+Well thats a lot of technical stuff, what are my other activities?
 
 -  🎮 Playing Video Games
 -  📸 Photo Editing
