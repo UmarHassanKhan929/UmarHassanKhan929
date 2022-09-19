@@ -22,6 +22,7 @@
 What I do?
 
 -  💻 Full Stack Web Development (MERN Stack)
+-  📱 Android Development (Flutter)
 -  📊 Data Scraping and Analysis
 
 </p>
@@ -30,8 +31,6 @@ What I do?
 <p>
 </br>
 What I am learning?
-
--  📱 Android Development (Flutter)
 -  ☁️ Cloud Computing (AWS)
   
 </p>
