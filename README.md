@@ -22,7 +22,7 @@
 What I do?
 
 -  💻 Full Stack Web Development (MERN Stack)
--   📱 Android Development (Flutter)
+-   📱 Mobile Development (Flutter)
 -  📊 Data Scraping and Analysis
 
 </p>
