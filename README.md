@@ -28,13 +28,6 @@ What I do?
 </p>
 
 
-<p>
-</br>
-What I am learning?
-
--  ☁️ Cloud Computing (AWS)
-  
-</p>
 <h2 align="center">GitHub Statistics</h2>
 
   <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
