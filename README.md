@@ -13,7 +13,7 @@
 
 <p align="left"> 
 
- I am a technicaly inclined and self motivated CS student passionate about building great products that make people’s lives easier. 
+ I am a technicaly inclined and self motivated CS graduate, passionate about building great products that make people’s lives easier. 
  
 </p>
 
@@ -21,8 +21,8 @@
 </br>
 What I do?
 
--  💻 Full Stack Web Development (MERN Stack)
--   📱 Mobile Development (Flutter)
+-  💻 Full Stack Web Development 
+-   📱 Hybrid Mobile Development
 -  📊 Data Scraping and Analysis
 
 </p>
