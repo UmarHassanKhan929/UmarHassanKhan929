@@ -99,7 +99,7 @@ Well thats a lot of technical stuff, what are my other activities?
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-<a href="https://www.instagram.com/uhk_naul/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>
+<a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram" /></a>
  <a href="https://linkedin.com/in/umar-hassan-khan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>
 </p>
 <h3 align="left">Looking forward to collaborate with ya'll</h3>
