@@ -33,15 +33,17 @@ What I do?
 <h2 align="center">GitHub Statistics</h2>
 
 
-<div style="display: flex; flex-direction:column;  justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java"> 
-
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=UmarHassanKhan929&theme=dark">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHassanKhan929&theme=tokyonight&hide=jupyter%20notebook,java" />
+  </p>
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarHassanKhan929&theme=dark" />
+  </p>
   
-</div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=UmarHassanKhan929&show_icons=true&theme=radical&line_height=22" />
+  </p>
 
 <h2 align="center">Tools & Technologies</h2>
 
