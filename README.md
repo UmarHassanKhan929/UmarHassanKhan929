@@ -59,6 +59,8 @@ What I do?
 
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
 
+<img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=green">
+
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -71,9 +73,13 @@ What I do?
 
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
 
+  <img src="https://img.shields.io/badge/vue.js-008000?style=for-the-badge&logo=vue.js&logoColor=white" /> 
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/PostgreSql-007acc?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/influxdb-purple?style=for-the-badge&logo=influxdb&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
@@ -101,19 +107,6 @@ What I do?
 
  <img src="https://img.shields.io/badge/Amazon_AWS-fff?style=for-the-badge&logo=amazon&logoColor=yellow" /> 
 
-</p>
-
-<h2 align="center">Non Technical Details</h2>
-
-<p>
-</br>
-Well thats a lot of technical stuff, what are my other activities?
-
--  🎮 Playing Video Games
--  📸 Photo Editing
--  🎬 Video Editing & Audio Visualizing
--  ⛰️ Hiking & Weight lifting 🏋🏻
-  
 </p>
 
 <h2 align="center">Contact Me</h2>
