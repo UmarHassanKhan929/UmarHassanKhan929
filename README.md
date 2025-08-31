@@ -24,7 +24,7 @@ What I do?
 -  💻 Full Stack Engineering
 -   📱 Mobile Development
 -  📊 Data Scraping and Analysis
--  🛠️ Automation
+-  🛠️ Automation & AI
 -  👨🏻‍💻 Tinkering around stuff 
 
 </p>
