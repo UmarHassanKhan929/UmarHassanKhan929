@@ -13,7 +13,7 @@
 
 <p align="center"> 
 
- Jack of all trades, master of none, but oftentimes better than a master of one
+ Jack of all trades.
  
 </p>
 
