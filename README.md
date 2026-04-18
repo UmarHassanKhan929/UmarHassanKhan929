@@ -23,7 +23,7 @@ Frontend    React · Next.js · Vue.js · Tailwind CSS
 ```
 AI          RAG Pipelines · Google ADK · Multi-Agent Systems · OpenAI/Gemini APIs
 Web3        StarkNet · Substrate · Ethers · Web3.js
-Identity    WebAuthn · W3C Verifiable Credentials · vLEI · OIDC · DID:WEB
+Identity    WebAuthn · W3C Verifiable Credentials · vLEI · OIDC · DID:WEB · ZK Based Credential Sharing
 ```
 
 ---
