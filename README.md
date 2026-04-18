@@ -32,6 +32,7 @@ Identity    WebAuthn · W3C Verifiable Credentials · vLEI · OIDC · DID:WEB ·
 
 - Building solutions at **Antematter Inc.** — client delivery across AI, Blockchain, and Fintech.
 - Exploring how to harness with AI.
+- Diving deep into Systems.
 
 ---
 
