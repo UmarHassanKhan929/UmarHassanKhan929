@@ -1,4 +1,4 @@
-# Umar Hassan Khan
+# Hi, Umar Hassan here.
 
 Software Engineer with 3+ years shipping production systems across Fintech, AI, Web3, and Cloud Native infrastructure.
 
@@ -31,7 +31,7 @@ Identity    WebAuthn · W3C Verifiable Credentials · vLEI · OIDC · DID:WEB ·
 ## Currently
 
 - Building solutions at **Antematter Inc.** — client delivery across AI, Blockchain, and Fintech.
-- Exploring how to harness with AI.
+- Harnessing AI for faster iteration and smarter workflows.
 - Diving deep into Systems.
 
 ---
